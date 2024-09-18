@@ -25,8 +25,6 @@ ___
 
 - Choose which model to use for Q&A and adjust parameters to your liking
 
-![Alt text](assets/qa_output.png)
-
 ___
 ## Using offline embeddings
 Necessary word embeddings are usually *downloaded* when running the application. This works for most use cases, but not for those where this application has to be run without any connection to the internet at all.
